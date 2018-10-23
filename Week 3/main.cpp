@@ -19,7 +19,6 @@ void max_func()
 }
 
 
-
 //get_classification: take input of an integer and return the degree classification for that percentage
 string get_classification(int percentage)
 {
@@ -29,7 +28,6 @@ string get_classification(int percentage)
     if (percentage >= 40 & percentage <   50){return "Condoned Pass";}
     if (percentage >=  0 & percentage <   40){return "Fail";}
 }
-
 
 
 //Task2
@@ -44,8 +42,7 @@ void degree_classification_func()
 }
 
 
-
-
+//Calculate integer based exponents with an integer base using a for loop
 int exp(int base, int exponent)
 {
     int value=1;
@@ -53,22 +50,16 @@ int exp(int base, int exponent)
     return value;
 }
 
+//Calculate integer based exponents with an integer base using a recursive function
 int recursive_exp(int base, int exponent)
 {
     if (exponent > 1){
-        exponent = exponent-1;
-        return base*recursive_exp(base, exponent) ;
+        return base*recursive_exp(base, exponent-1) ;
     }else
     {
         return base;
     }
-
 }
-
-
-
-
-
 
 //Task3
 //takes two inputs, a base and an exponent and determines the value
@@ -86,14 +77,39 @@ void raise_to_power_func()
 }
 
 
+double sqrt(double x)
+{
+    double low =1.0;
+    double high = x;
+    double estimate = 0.0;
+
+    for (int i = 1; i<=30; i++)
+    {
+        estimate = (high + low)/2;
+        if (estimate*estimate < x) { low  = estimate; }
+        if (estimate*estimate > x) { high = estimate; }
+    }
+    return estimate;
+}
+
+
+
+void sqrt_func()
+{
+    double x = 0;
+    cout << "Input value to sqrt\n";
+    cin >> x;
+    cout << "The squareroot of " << x << " is " << sqrt(x) << endl;
+}
 
 
 
 
-int main() {
-     //max_func();
-     //degree_classification_func();
+int main()
+{
+    max_func();
+    degree_classification_func();
     raise_to_power_func();
-
+    sqrt_func();
     return 1;
 }
