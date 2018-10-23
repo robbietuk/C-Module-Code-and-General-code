@@ -1,4 +1,4 @@
-# Install script for directory: /Users/RobertTwyman/OneDrive/Documents/UCL/Modules/MPHY0030 - C++/Code/Week 3
+# Install script for directory: /Users/RobertTwyman/OneDrive/Documents/UCL/Modules/MPHY0030 - C++/Code/C++ Module Code and General code/Week 3
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/RobertTwyman/OneDrive/Documents/UCL/Modules/MPHY0030 - C++/Code/Week 3/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/RobertTwyman/OneDrive/Documents/UCL/Modules/MPHY0030 - C++/Code/C++ Module Code and General code/Week 3/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
