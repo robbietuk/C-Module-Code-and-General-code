@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/RobertTwyman/OneDrive/Documents/UCL/Modules/MPHY0030 - C++/Code/Messing around code/main.cpp
+iostream
+-
+string
+-
+

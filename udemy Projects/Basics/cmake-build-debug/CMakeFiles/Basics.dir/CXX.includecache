@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/RobertTwyman/OneDrive/Documents/UCL/Modules/MPHY0030 - C++/Code/udemy Projects/Basics/common_functions.cpp
+common_functions.h
+/Users/RobertTwyman/OneDrive/Documents/UCL/Modules/MPHY0030 - C++/Code/udemy Projects/Basics/common_functions.h
+iostream
+-
+
+/Users/RobertTwyman/OneDrive/Documents/UCL/Modules/MPHY0030 - C++/Code/udemy Projects/Basics/common_functions.h
+
+/Users/RobertTwyman/OneDrive/Documents/UCL/Modules/MPHY0030 - C++/Code/udemy Projects/Basics/main.cpp
+iostream
+-
+string
+-
+common_functions.h
+/Users/RobertTwyman/OneDrive/Documents/UCL/Modules/MPHY0030 - C++/Code/udemy Projects/Basics/common_functions.h
+
