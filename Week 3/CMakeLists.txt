@@ -3,4 +3,4 @@ project(Week_3)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Week_3 main.cpp)
+add_executable(Week_3 main.cpp "../udemy Projects/Basics/hi.cpp" "../udemy Projects/Basics/hi.h")

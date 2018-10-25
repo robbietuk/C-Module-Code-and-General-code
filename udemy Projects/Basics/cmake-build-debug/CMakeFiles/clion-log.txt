@@ -1,4 +1,4 @@
-/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/Users/RobertTwyman/OneDrive/Documents/UCL/Modules/MPHY0030 - C++/Code/udemy Projects/Basics"
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/Users/RobertTwyman/OneDrive/Documents/UCL/Modules/MPHY0030 - C++/Code/C++ Module Code and General code/udemy Projects/Basics"
 -- Configuring done
 -- Generating done
--- Build files have been written to: /Users/RobertTwyman/OneDrive/Documents/UCL/Modules/MPHY0030 - C++/Code/udemy Projects/Basics/cmake-build-debug
+-- Build files have been written to: /Users/RobertTwyman/OneDrive/Documents/UCL/Modules/MPHY0030 - C++/Code/C++ Module Code and General code/udemy Projects/Basics/cmake-build-debug

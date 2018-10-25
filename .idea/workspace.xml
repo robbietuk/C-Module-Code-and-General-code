@@ -12,10 +12,90 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="823a883f-00f2-4649-bf4b-58469e48ccb3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Week 3/cmake-build-debug/CMakeFiles/Week_3.dir/main.cpp.o" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy Projects/Basics/hi.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy Projects/Basics/hi.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2/C++ Module Code/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/C++ Module Code/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2/C++ Module Code/cmake-build-debug/CMakeFiles/3.12.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2/C++ Module Code/cmake-build-debug/CMakeFiles/3.12.2/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2/C++ Module Code/cmake-build-debug/CMakeFiles/3.12.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2/C++ Module Code/cmake-build-debug/CMakeFiles/3.12.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2/C++ Module Code/cmake-build-debug/CMakeFiles/3.12.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2/C++ Module Code/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2/C++ Module Code/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2/C++ Module Code/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2/C++ Module Code/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2/C++ Module Code/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/C++ Module Code/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2/C++ Module Code/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/C++ Module Code/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2/C++ Module Code/cmake-build-debug/CMakeFiles/C___Module_Code.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/C++ Module Code/cmake-build-debug/CMakeFiles/C___Module_Code.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2/C++ Module Code/cmake-build-debug/CMakeFiles/C___Module_Code.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/C++ Module Code/cmake-build-debug/CMakeFiles/C___Module_Code.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2/C++ Module Code/cmake-build-debug/CMakeFiles/C___Module_Code.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/C++ Module Code/cmake-build-debug/CMakeFiles/C___Module_Code.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2/C++ Module Code/cmake-build-debug/CMakeFiles/C___Module_Code.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/C++ Module Code/cmake-build-debug/CMakeFiles/C___Module_Code.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2/C++ Module Code/cmake-build-debug/CMakeFiles/C___Module_Code.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/C++ Module Code/cmake-build-debug/CMakeFiles/C___Module_Code.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2/C++ Module Code/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/C++ Module Code/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2/C++ Module Code/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/C++ Module Code/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2/C++ Module Code/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/C++ Module Code/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2/C++ Module Code/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/C++ Module Code/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2/C++ Module Code/cmake-build-debug/C___Module_Code" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/C++ Module Code/cmake-build-debug/C___Module_Code" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2/C++ Module Code/cmake-build-debug/C___Module_Code.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/C++ Module Code/cmake-build-debug/C___Module_Code.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2/C++ Module Code/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/C++ Module Code/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2/C++ Module Code/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/C++ Module Code/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 3/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Week 3/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 3/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/Week 3/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 3/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/Week 3/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 3/cmake-build-debug/CMakeFiles/Week_3.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/Week 3/cmake-build-debug/CMakeFiles/Week_3.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 3/cmake-build-debug/CMakeFiles/Week_3.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/Week 3/cmake-build-debug/CMakeFiles/Week_3.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 3/cmake-build-debug/CMakeFiles/Week_3.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/Week 3/cmake-build-debug/CMakeFiles/Week_3.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 3/cmake-build-debug/CMakeFiles/Week_3.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/Week 3/cmake-build-debug/CMakeFiles/Week_3.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 3/cmake-build-debug/CMakeFiles/Week_3.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/Week 3/cmake-build-debug/CMakeFiles/Week_3.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 3/cmake-build-debug/CMakeFiles/Week_3.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/Week 3/cmake-build-debug/CMakeFiles/Week_3.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 3/cmake-build-debug/CMakeFiles/Week_3.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Week 3/cmake-build-debug/CMakeFiles/Week_3.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 3/cmake-build-debug/CMakeFiles/Week_3.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/Week 3/cmake-build-debug/CMakeFiles/Week_3.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 3/cmake-build-debug/CMakeFiles/Week_3.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/Week 3/cmake-build-debug/CMakeFiles/Week_3.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 3/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Week 3/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 3/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/Week 3/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 3/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Week 3/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 3/cmake-build-debug/Week_3" beforeDir="false" afterPath="$PROJECT_DIR$/Week 3/cmake-build-debug/Week_3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 3/cmake-build-debug/Week_3.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/Week 3/cmake-build-debug/Week_3.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Week 3/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Week 3/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy Projects/Basics/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/udemy Projects/Basics/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy Projects/Basics/cmake-build-debug/Basics" beforeDir="false" afterPath="$PROJECT_DIR$/udemy Projects/Basics/cmake-build-debug/Basics" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy Projects/Basics/cmake-build-debug/Basics.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/udemy Projects/Basics/cmake-build-debug/Basics.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy Projects/Basics/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/udemy Projects/Basics/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy Projects/Basics/cmake-build-debug/CMakeFiles/3.12.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy Projects/Basics/cmake-build-debug/CMakeFiles/3.12.2/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy Projects/Basics/cmake-build-debug/CMakeFiles/3.12.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy Projects/Basics/cmake-build-debug/CMakeFiles/3.12.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy Projects/Basics/cmake-build-debug/CMakeFiles/3.12.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy Projects/Basics/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy Projects/Basics/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy Projects/Basics/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy Projects/Basics/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy Projects/Basics/cmake-build-debug/CMakeFiles/Basics.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/udemy Projects/Basics/cmake-build-debug/CMakeFiles/Basics.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy Projects/Basics/cmake-build-debug/CMakeFiles/Basics.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/udemy Projects/Basics/cmake-build-debug/CMakeFiles/Basics.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy Projects/Basics/cmake-build-debug/CMakeFiles/Basics.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/udemy Projects/Basics/cmake-build-debug/CMakeFiles/Basics.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy Projects/Basics/cmake-build-debug/CMakeFiles/Basics.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/udemy Projects/Basics/cmake-build-debug/CMakeFiles/Basics.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy Projects/Basics/cmake-build-debug/CMakeFiles/Basics.dir/common_functions.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/udemy Projects/Basics/cmake-build-debug/CMakeFiles/Basics.dir/common_functions.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy Projects/Basics/cmake-build-debug/CMakeFiles/Basics.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/udemy Projects/Basics/cmake-build-debug/CMakeFiles/Basics.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy Projects/Basics/cmake-build-debug/CMakeFiles/Basics.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/udemy Projects/Basics/cmake-build-debug/CMakeFiles/Basics.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy Projects/Basics/cmake-build-debug/CMakeFiles/Basics.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/udemy Projects/Basics/cmake-build-debug/CMakeFiles/Basics.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy Projects/Basics/cmake-build-debug/CMakeFiles/Basics.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/udemy Projects/Basics/cmake-build-debug/CMakeFiles/Basics.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy Projects/Basics/cmake-build-debug/CMakeFiles/Basics.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/udemy Projects/Basics/cmake-build-debug/CMakeFiles/Basics.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy Projects/Basics/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/udemy Projects/Basics/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy Projects/Basics/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/udemy Projects/Basics/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy Projects/Basics/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/udemy Projects/Basics/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy Projects/Basics/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/udemy Projects/Basics/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy Projects/Basics/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/udemy Projects/Basics/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy Projects/Basics/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/udemy Projects/Basics/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy Projects/Basics/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/udemy Projects/Basics/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy Projects/Basics/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/udemy Projects/Basics/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy Projects/Basics/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/udemy Projects/Basics/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy Projects/Basics/common_functions.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/udemy Projects/Basics/common_functions.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy Projects/Basics/common_functions.h" beforeDir="false" afterPath="$PROJECT_DIR$/udemy Projects/Basics/common_functions.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy Projects/Basics/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/udemy Projects/Basics/main.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/Week 3/cmake-build-debug/" />
+    <ignored path="$PROJECT_DIR$/udemy Projects/Basics/cmake-build-debug/" />
+    <ignored path="$PROJECT_DIR$/Week 2/C++ Module Code/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,33 +107,37 @@
     <session id="1513472681">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cpp" value="2" />
-          <entry key="h" value="1" />
-          <entry key="txt" value="1" />
+          <entry key="cpp" value="8" />
+          <entry key="h" value="4" />
+          <entry key="txt" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CMakeLists.txt" value="1" />
-          <entry key="ObjectiveC" value="3" />
+          <entry key="CMakeLists.txt" value="3" />
+          <entry key="ObjectiveC" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cpp" value="3257" />
+          <entry key="cpp" value="3431" />
+          <entry key="h" value="3" />
+          <entry key="txt" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="ObjectiveC" value="3257" />
+          <entry key="CMakeLists.txt" value="9" />
+          <entry key="ObjectiveC" value="3434" />
         </counts>
       </usages-collector>
     </session>
@@ -63,11 +147,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Week 3/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="632">
-              <caret line="113" column="13" lean-forward="true" selection-start-line="113" selection-start-column="13" selection-end-line="113" selection-end-column="13" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="345">
+              <caret line="96" column="20" lean-forward="true" selection-start-line="96" selection-start-column="20" selection-end-line="96" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -80,6 +161,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/udemy Projects/Basics/main.cpp" />
+        <option value="$PROJECT_DIR$/udemy Projects/Basics/common_functions.cpp" />
+        <option value="$PROJECT_DIR$/udemy Projects/Basics/hi.cpp" />
+        <option value="$PROJECT_DIR$/udemy Projects/Basics/hi.h" />
+        <option value="$PROJECT_DIR$/udemy Projects/Basics/common_functions.h" />
+        <option value="$PROJECT_DIR$/udemy Projects/Basics/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/Week 3/main.cpp" />
       </list>
     </option>
@@ -90,8 +177,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-4" />
+    <option name="y" value="34" />
     <option name="width" value="1440" />
     <option name="height" value="877" />
   </component>
@@ -100,6 +188,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -110,13 +199,13 @@
             <path>
               <item name="Week_3" type="b2602c69:ProjectViewProjectNode" />
               <item name="C++ Module Code and General code" type="462c0819:PsiDirectoryNode" />
-              <item name="Week 2" type="462c0819:PsiDirectoryNode" />
+              <item name="udemy Projects" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Week_3" type="b2602c69:ProjectViewProjectNode" />
               <item name="C++ Module Code and General code" type="462c0819:PsiDirectoryNode" />
-              <item name="Week 2" type="462c0819:PsiDirectoryNode" />
-              <item name="C++ Module Code" type="462c0819:PsiDirectoryNode" />
+              <item name="udemy Projects" type="462c0819:PsiDirectoryNode" />
+              <item name="Basics" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Week_3" type="b2602c69:ProjectViewProjectNode" />
@@ -127,7 +216,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -176,17 +264,18 @@
       <updated>1540287879683</updated>
       <workItem from="1540287881385" duration="4242000" />
       <workItem from="1540294095374" duration="2437000" />
+      <workItem from="1540398135272" duration="1438000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6679000" />
+    <option name="totallyTimeSpent" value="8117000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <frame x="-1" y="23" width="1440" height="877" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -218,9 +307,6 @@
     <entry file="file://$PROJECT_DIR$/Week 3/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week 2/C++ Module Code/main.cpp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file:///Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include/opencl-c.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -228,13 +314,59 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/udemy Projects/Basics/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy Projects/Basics/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="83" lean-forward="true" selection-start-line="5" selection-start-column="83" selection-end-line="5" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy Projects/Basics/common_functions.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy Projects/Basics/hi.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy Projects/Basics/hi.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy Projects/Basics/common_functions.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 2/C++ Module Code/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Week 3/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="632">
-          <caret line="113" column="13" lean-forward="true" selection-start-line="113" selection-start-column="13" selection-end-line="113" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="345">
+          <caret line="96" column="20" lean-forward="true" selection-start-line="96" selection-start-column="20" selection-end-line="96" selection-end-column="20" />
         </state>
       </provider>
     </entry>

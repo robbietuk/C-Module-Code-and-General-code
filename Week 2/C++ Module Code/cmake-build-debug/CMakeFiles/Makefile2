@@ -59,10 +59,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/Users/RobertTwyman/OneDrive/Documents/UCL/Modules/MPHY0030 - C++/Code/Week 2/C++ Module Code"
+CMAKE_SOURCE_DIR = "/Users/RobertTwyman/OneDrive/Documents/UCL/Modules/MPHY0030 - C++/Code/C++ Module Code and General code/Week 2/C++ Module Code"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/Users/RobertTwyman/OneDrive/Documents/UCL/Modules/MPHY0030 - C++/Code/Week 2/C++ Module Code/cmake-build-debug"
+CMAKE_BINARY_DIR = "/Users/RobertTwyman/OneDrive/Documents/UCL/Modules/MPHY0030 - C++/Code/C++ Module Code and General code/Week 2/C++ Module Code/cmake-build-debug"
 
 #=============================================================================
 # Target rules for target CMakeFiles/C___Module_Code.dir
@@ -71,7 +71,7 @@ CMAKE_BINARY_DIR = "/Users/RobertTwyman/OneDrive/Documents/UCL/Modules/MPHY0030 
 CMakeFiles/C___Module_Code.dir/all:
 	$(MAKE) -f CMakeFiles/C___Module_Code.dir/build.make CMakeFiles/C___Module_Code.dir/depend
 	$(MAKE) -f CMakeFiles/C___Module_Code.dir/build.make CMakeFiles/C___Module_Code.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/RobertTwyman/OneDrive/Documents/UCL/Modules/MPHY0030 - C++/Code/Week 2/C++ Module Code/cmake-build-debug/CMakeFiles" --progress-num=1,2 "Built target C___Module_Code"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/RobertTwyman/OneDrive/Documents/UCL/Modules/MPHY0030 - C++/Code/C++ Module Code and General code/Week 2/C++ Module Code/cmake-build-debug/CMakeFiles" --progress-num=1,2 "Built target C___Module_Code"
 .PHONY : CMakeFiles/C___Module_Code.dir/all
 
 # Include target in all.
@@ -81,9 +81,9 @@ all: CMakeFiles/C___Module_Code.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/C___Module_Code.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/RobertTwyman/OneDrive/Documents/UCL/Modules/MPHY0030 - C++/Code/Week 2/C++ Module Code/cmake-build-debug/CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/RobertTwyman/OneDrive/Documents/UCL/Modules/MPHY0030 - C++/Code/C++ Module Code and General code/Week 2/C++ Module Code/cmake-build-debug/CMakeFiles" 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/C___Module_Code.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/RobertTwyman/OneDrive/Documents/UCL/Modules/MPHY0030 - C++/Code/Week 2/C++ Module Code/cmake-build-debug/CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/RobertTwyman/OneDrive/Documents/UCL/Modules/MPHY0030 - C++/Code/C++ Module Code and General code/Week 2/C++ Module Code/cmake-build-debug/CMakeFiles" 0
 .PHONY : CMakeFiles/C___Module_Code.dir/rule
 
 # Convenience name for target.

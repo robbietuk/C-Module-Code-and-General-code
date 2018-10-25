@@ -6,16 +6,7 @@
 #include <iostream>
 
 
-//Factorial Function
-int factorial(int n)
-{
-    if (n>0)
-    {
-        return factorial(n-1)*n;
-    }else{
-        return 1;
-    }
-}
+
 
 
 //custom integer power function

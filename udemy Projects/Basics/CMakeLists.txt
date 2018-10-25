@@ -3,4 +3,4 @@ project(Basics)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Basics main.cpp common_functions.cpp common_functions.h)
+add_executable(Basics main.cpp common_functions.cpp common_functions.h hi.h hi.cpp)

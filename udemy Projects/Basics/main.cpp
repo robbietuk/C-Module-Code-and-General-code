@@ -3,6 +3,7 @@
 
 
 #include "common_functions.h"
+#include "hi.h"
 
 using namespace std;
 

@@ -48,10 +48,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/Users/RobertTwyman/OneDrive/Documents/UCL/Modules/MPHY0030 - C++/Code/udemy Projects/Basics"
+CMAKE_SOURCE_DIR = "/Users/RobertTwyman/OneDrive/Documents/UCL/Modules/MPHY0030 - C++/Code/C++ Module Code and General code/udemy Projects/Basics"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/Users/RobertTwyman/OneDrive/Documents/UCL/Modules/MPHY0030 - C++/Code/udemy Projects/Basics/cmake-build-debug"
+CMAKE_BINARY_DIR = "/Users/RobertTwyman/OneDrive/Documents/UCL/Modules/MPHY0030 - C++/Code/C++ Module Code and General code/udemy Projects/Basics/cmake-build-debug"
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/RobertTwyman/OneDrive/Documents/UCL/Modules/MPHY0030 - C++/Code/udemy Projects/Basics/cmake-build-debug/CMakeFiles" "/Users/RobertTwyman/OneDrive/Documents/UCL/Modules/MPHY0030 - C++/Code/udemy Projects/Basics/cmake-build-debug/CMakeFiles/progress.marks"
+	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/RobertTwyman/OneDrive/Documents/UCL/Modules/MPHY0030 - C++/Code/C++ Module Code and General code/udemy Projects/Basics/cmake-build-debug/CMakeFiles" "/Users/RobertTwyman/OneDrive/Documents/UCL/Modules/MPHY0030 - C++/Code/C++ Module Code and General code/udemy Projects/Basics/cmake-build-debug/CMakeFiles/progress.marks"
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/RobertTwyman/OneDrive/Documents/UCL/Modules/MPHY0030 - C++/Code/udemy Projects/Basics/cmake-build-debug/CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/RobertTwyman/OneDrive/Documents/UCL/Modules/MPHY0030 - C++/Code/C++ Module Code and General code/udemy Projects/Basics/cmake-build-debug/CMakeFiles" 0
 .PHONY : all
 
 # The main clean target
@@ -150,6 +150,33 @@ common_functions.cpp.s:
 	$(MAKE) -f CMakeFiles/Basics.dir/build.make CMakeFiles/Basics.dir/common_functions.cpp.s
 .PHONY : common_functions.cpp.s
 
+hi.o: hi.cpp.o
+
+.PHONY : hi.o
+
+# target to build an object file
+hi.cpp.o:
+	$(MAKE) -f CMakeFiles/Basics.dir/build.make CMakeFiles/Basics.dir/hi.cpp.o
+.PHONY : hi.cpp.o
+
+hi.i: hi.cpp.i
+
+.PHONY : hi.i
+
+# target to preprocess a source file
+hi.cpp.i:
+	$(MAKE) -f CMakeFiles/Basics.dir/build.make CMakeFiles/Basics.dir/hi.cpp.i
+.PHONY : hi.cpp.i
+
+hi.s: hi.cpp.s
+
+.PHONY : hi.s
+
+# target to generate assembly for a file
+hi.cpp.s:
+	$(MAKE) -f CMakeFiles/Basics.dir/build.make CMakeFiles/Basics.dir/hi.cpp.s
+.PHONY : hi.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -189,6 +216,9 @@ help:
 	@echo "... common_functions.o"
 	@echo "... common_functions.i"
 	@echo "... common_functions.s"
+	@echo "... hi.o"
+	@echo "... hi.i"
+	@echo "... hi.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

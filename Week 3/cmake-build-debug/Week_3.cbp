@@ -83,6 +83,12 @@
 		<Unit filename="/Users/RobertTwyman/OneDrive/Documents/UCL/Modules/MPHY0030 - C++/Code/C++ Module Code and General code/Week 3/main.cpp">
 			<Option target="Week_3"/>
 		</Unit>
+		<Unit filename="/Users/RobertTwyman/OneDrive/Documents/UCL/Modules/MPHY0030 - C++/Code/C++ Module Code and General code/udemy Projects/Basics/hi.cpp">
+			<Option target="Week_3"/>
+		</Unit>
+		<Unit filename="/Users/RobertTwyman/OneDrive/Documents/UCL/Modules/MPHY0030 - C++/Code/C++ Module Code and General code/udemy Projects/Basics/hi.h">
+			<Option target="Week_3"/>
+		</Unit>
 		<Unit filename="/Users/RobertTwyman/OneDrive/Documents/UCL/Modules/MPHY0030 - C++/Code/C++ Module Code and General code/Week 3/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

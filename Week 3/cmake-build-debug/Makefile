@@ -123,6 +123,33 @@ Week_3/fast:
 	$(MAKE) -f CMakeFiles/Week_3.dir/build.make CMakeFiles/Week_3.dir/build
 .PHONY : Week_3/fast
 
+Users/RobertTwyman/OneDrive/Documents/UCL/Modules/MPHY0030_-_C++/Code/C++_Module_Code_and_General_code/udemy_Projects/Basics/hi.o: Users/RobertTwyman/OneDrive/Documents/UCL/Modules/MPHY0030_-_C++/Code/C++_Module_Code_and_General_code/udemy_Projects/Basics/hi.cpp.o
+
+.PHONY : Users/RobertTwyman/OneDrive/Documents/UCL/Modules/MPHY0030_-_C++/Code/C++_Module_Code_and_General_code/udemy_Projects/Basics/hi.o
+
+# target to build an object file
+Users/RobertTwyman/OneDrive/Documents/UCL/Modules/MPHY0030_-_C++/Code/C++_Module_Code_and_General_code/udemy_Projects/Basics/hi.cpp.o:
+	$(MAKE) -f CMakeFiles/Week_3.dir/build.make CMakeFiles/Week_3.dir/Users/RobertTwyman/OneDrive/Documents/UCL/Modules/MPHY0030_-_C++/Code/C++_Module_Code_and_General_code/udemy_Projects/Basics/hi.cpp.o
+.PHONY : Users/RobertTwyman/OneDrive/Documents/UCL/Modules/MPHY0030_-_C++/Code/C++_Module_Code_and_General_code/udemy_Projects/Basics/hi.cpp.o
+
+Users/RobertTwyman/OneDrive/Documents/UCL/Modules/MPHY0030_-_C++/Code/C++_Module_Code_and_General_code/udemy_Projects/Basics/hi.i: Users/RobertTwyman/OneDrive/Documents/UCL/Modules/MPHY0030_-_C++/Code/C++_Module_Code_and_General_code/udemy_Projects/Basics/hi.cpp.i
+
+.PHONY : Users/RobertTwyman/OneDrive/Documents/UCL/Modules/MPHY0030_-_C++/Code/C++_Module_Code_and_General_code/udemy_Projects/Basics/hi.i
+
+# target to preprocess a source file
+Users/RobertTwyman/OneDrive/Documents/UCL/Modules/MPHY0030_-_C++/Code/C++_Module_Code_and_General_code/udemy_Projects/Basics/hi.cpp.i:
+	$(MAKE) -f CMakeFiles/Week_3.dir/build.make CMakeFiles/Week_3.dir/Users/RobertTwyman/OneDrive/Documents/UCL/Modules/MPHY0030_-_C++/Code/C++_Module_Code_and_General_code/udemy_Projects/Basics/hi.cpp.i
+.PHONY : Users/RobertTwyman/OneDrive/Documents/UCL/Modules/MPHY0030_-_C++/Code/C++_Module_Code_and_General_code/udemy_Projects/Basics/hi.cpp.i
+
+Users/RobertTwyman/OneDrive/Documents/UCL/Modules/MPHY0030_-_C++/Code/C++_Module_Code_and_General_code/udemy_Projects/Basics/hi.s: Users/RobertTwyman/OneDrive/Documents/UCL/Modules/MPHY0030_-_C++/Code/C++_Module_Code_and_General_code/udemy_Projects/Basics/hi.cpp.s
+
+.PHONY : Users/RobertTwyman/OneDrive/Documents/UCL/Modules/MPHY0030_-_C++/Code/C++_Module_Code_and_General_code/udemy_Projects/Basics/hi.s
+
+# target to generate assembly for a file
+Users/RobertTwyman/OneDrive/Documents/UCL/Modules/MPHY0030_-_C++/Code/C++_Module_Code_and_General_code/udemy_Projects/Basics/hi.cpp.s:
+	$(MAKE) -f CMakeFiles/Week_3.dir/build.make CMakeFiles/Week_3.dir/Users/RobertTwyman/OneDrive/Documents/UCL/Modules/MPHY0030_-_C++/Code/C++_Module_Code_and_General_code/udemy_Projects/Basics/hi.cpp.s
+.PHONY : Users/RobertTwyman/OneDrive/Documents/UCL/Modules/MPHY0030_-_C++/Code/C++_Module_Code_and_General_code/udemy_Projects/Basics/hi.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -159,6 +186,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Week_3"
+	@echo "... Users/RobertTwyman/OneDrive/Documents/UCL/Modules/MPHY0030_-_C++/Code/C++_Module_Code_and_General_code/udemy_Projects/Basics/hi.o"
+	@echo "... Users/RobertTwyman/OneDrive/Documents/UCL/Modules/MPHY0030_-_C++/Code/C++_Module_Code_and_General_code/udemy_Projects/Basics/hi.i"
+	@echo "... Users/RobertTwyman/OneDrive/Documents/UCL/Modules/MPHY0030_-_C++/Code/C++_Module_Code_and_General_code/udemy_Projects/Basics/hi.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

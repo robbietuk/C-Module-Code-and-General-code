@@ -6,7 +6,6 @@
 #define COMMON_FUNCTIONS_H
 
 
-int factorial(int n);
 
 int power(int n);
 
