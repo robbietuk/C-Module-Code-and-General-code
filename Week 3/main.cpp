@@ -78,7 +78,6 @@ void raise_to_power_func()
     cout << "Using a for loop I get the value: " << exp(base, exponent) << endl;
     cout << "Using a recursive function I get the value: "
          << recursive_exp(base, exponent) << endl;
-
 }
 
 
